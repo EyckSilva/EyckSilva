@@ -1,5 +1,5 @@
 
-# Olá, eu sou Eyck Silva!
+# Olá, me chamo Eyck Silva!
 
 ### Desenvolvedor Full-stack 
 
@@ -23,7 +23,7 @@ Desenvolvo aplicações web e soluções digitais, trabalhando com interfaces re
 
 Explore meus projetos, experiências e tecnologias em meu portfólio pessoal.
 
-### [🚀 Acessar meu portfólio](https://portfolio-eyck.vercel.app)
+### [ Acessar meu portfólio](https://portfolio-eyck.vercel.app)
 
 
 ## 📫 Contato
