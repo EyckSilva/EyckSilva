@@ -1,7 +1,7 @@
 
 # Olá, eu sou Eyck Silva!
 
-### Desenvolvedor Full-stack | 
+### Desenvolvedor Full-stack 
 
 Sou desenvolvedor e estudante de Sistemas de Informação na Universidade Tiradentes (UNIT), em Sergipe, Brasil.
 
