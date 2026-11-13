@@ -1,5 +1,5 @@
 
-# Olá, me chamo Eyck Silva!
+# Olá, eu me chamo Eyck Silva!
 
 ### Desenvolvedor Full-stack 
 
